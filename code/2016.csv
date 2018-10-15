@@ -1,0 +1,62 @@
+Species,Stock,NEST,CV,NMIN,Year of last survey,RMAX,FR,PBR,Commer. fishery mort.,Native subsist. mort.,Total mort.,Status
+Steller sea lion,Western U.S.,"50,983a",,"50,983",2015,0.12,0.1,306,30,201,236,S
+Steller sea lion,Eastern U.S.,"41,638a",,"41,638",2015,0.12,1.0,"2,498",14,11,108,NS
+Northern fur seal,Eastern Pacific,"626,734",0.2,"530,474",2014,0.086,0.5,"11,405",3.5,426,437,S
+Harbor seal,Aleutian Islands,"6,431",,"5,772",2011,0.12,0.5,173,0,90,90,NS
+Harbor seal,Pribilof Islands,232,,232,2010,0.12,0.5,7,0,0,0,NS
+Harbor seal,Bristol Bay,"32,350",,"28,146",2011,0.12,0.7,"1,182",0.6,141,142,NS
+Harbor seal,North Kodiak,"8,321",,"7,096",2011,0.12,0.7,298,0,37,37,NS
+Harbor seal,South Kodiak,"19,199",,"17,479",2011,0.12,0.3,314,1.9,126,128,NS
+Harbor seal,Prince William Sound,"29,889",,"27,936",2011,0.12,0.5,838,24,255,279,NS
+Harbor seal,Cook Inlet/Shelikof Strait,"27,386",,"25,651",2011,0.12,0.5,770,0.4,233,234,NS
+Harbor seal,Glacier Bay/Icy Strait,"7,210",,"5,647",2011,0.12,0.5,169,0,104,104,NS
+Harbor seal,Lynn Canal/Stephens Passage,"9,478",,"8,605",2011,0.12,0.3,155,0,50,50,NS
+Harbor seal,Sitka/Chatham Strait,"14,855",,"13,212",2011,0.12,0.7,555,0,77,77,NS
+Harbor seal,Dixon/Cape Decision,"18,105",,"16,727",2011,0.12,0.7,703,0,69,69,NS
+Harbor seal,Clarence Strait,"31,634",,"29,093",2011,0.12,0.7,"1,222",0,40,41,NS
+Spotted seal,Alaska,"460,268",,"391,000",2012,0.12,0.5,"11,730",1.5,"5,265","5,267",NS
+Bearded seal,Alaska,b,,b,2013,0.12,0.5,b,1.4,390,391,NS
+Ringed seal,Alaska,b,,b,2013,0.12,0.5,b,3.9,"1,050","1,054",NS
+Ribbon seal,Alaska,"184,000",,"163,086",2013,0.12,1.0,"9,785",0.6,3.2,3.8,NS
+Species,Stock,NEST,CV,NMIN,Year of last survey,RMAX,FR,PBR,"Commer. fishery
+mort.","Native
+subsist. mort.",Total mort.,Status
+Beluga whale,Beaufort Sea,"39,258",0.229,"32,453",1992,0.04,1.0,649,0,166,166,NS
+Beluga whale,Eastern Chukchi Sea,"3,710",N/A,N/A,1991,0.04,1.0,UNDET,0,57.4,57.4,NS
+Beluga whale,Eastern Bering Sea,"19,186",0.32,N/A,2000,0.04,1.0,UNDET,0,181,181,NS
+Beluga whale,Bristol Bay,"2,877",0.2,"2,435",2005,0.048,1.0,58,0.2,24,24.2,NS
+Beluga whale,Cook Inlet,312,0.10,287,2014,0.04,0.1,UNDET,0,0,0,S
+Narwhal,Unidentified,N/A,,N/A,,0.04,0.5,N/A,0,0,0,NS
+Killer whale,"Eastern North Pacific Alaska
+Resident","2,347c",N/A,"2,347",2012,0.04,0.5,24,1,0,1,NS
+Killer whale,"Eastern North Pacific
+Northern Resident (British Columbia)",261c,N/A,261,2011,0.03,0.5,1.96,0,0,0,NS
+Killer whale,"Eastern North Pacific Gulf of Alaska, Aleutian
+Islands, and Bering Sea Transient",587c,N/A,587,2012,0.04,0.5,5.9,1,0,1,NS
+Killer whale,AT1 Transient,7c,N/A,7,2015,0.04,0.1,0,0,0,0,S
+Killer whale,West Coast Transient,243c,N/A,243,2009,0.04,0.5,2.4,0,0,0,NS
+"Pacific white-sided
+dolphin",North Pacific,"26,880",N/A,N/A,1990,0.04,0.5,UNDET,0,0,0,NS
+Harbor porpoise,Southeast Alaska,b,b,b,2012,0.04,0.5,b,34,0,34,S
+Harbor porpoise,Gulf of Alaska,"31,046",0.214,N/A,1998,0.04,0.5,UNDET,72,0,72,S
+Harbor porpoise,Bering Sea,"48,215",0.223,N/A,1999,0.04,0.5,UNDET,0.2,0,0.4,S
+Dall’s porpoise,Alaska,"83,400",0.097,N/A,1993,0.04,1.0,UNDET,38,0,38,NS
+Sperm whale,North Pacific,N/A,,N/A,,0.04,0.1,N/A,2.2,0,2.2,S
+Baird’s beaked whale,Alaska,N/A,,N/A,,0.04,0.5,N/A,0,0,0,NS
+"Cuvier’s beaked
+whale",Alaska,N/A,,N/A,,0.04,0.5,N/A,0,0,0,NS
+Stejneger’s beaked whale,Alaska,N/A,,N/A,,0.04,0.5,N/A,0,0,0,NS
+Humpback whale,Western North Pacific,"1,107",0.300,865,2006,0.07,0.1,3.0,0.8,0,2.6,S
+Species,Stock,NEST,CV,NMIN,Year of last survey,RMAX,FR,PBR,"Commer. fishery
+mort.","Native
+subsist. mort.",Total mort.,Status
+Humpback whale,Central North Pacific - entire stock,"10,103",0.300,"7,890",2006,0.07,0.3,83,7.4,0,24,S
+Fin whale,Northeast Pacific,b,b,b,2010,0.04,0.1,b,0.2,0,0.6,S
+Minke whale,Alaska,N/A,,N/A,,0.04,0.5,N/A,0,0,0,NS
+North Pacific right whale,Eastern North Pacific,31,0.226,26,2013,0.04,0.1,0.05,0,0,0,S
+Bowhead whale,Western Arctic,"16,892",0.058,"16,091",2011,0.04,0.5,161,0.2,44,44,S
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

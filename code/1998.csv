@@ -1,0 +1,37 @@
+Species,Stock,N (est),CV,C.F.,CV C.F.,Comb. CV,N(min),"0.5
+Rmax",F(r),PBR,Fishery mort.,Subsist mort.,Status
+Baird’s beaked whale,Alaska,n/a,,,,,n/a,0.02,0.5,n/a,0,see txt,NS
+Bearded seal,Alaska,n/a,,,,,n/a,0.06,0.5,n/a,2,n/a,NS
+Beluga whale,Beaufort Sea,"39,258",0.229,2,n/a,0.229,"32,453",0.02,1,649,0,160,NS
+Beluga whale,East. Chukchi Sea,"3,710",n/a,3.09,n/a,n/a,"3,710",0.02,1,74,0,54,NS
+Beluga whale,East. Bering Sea,"7,986",0.26,3.09,n/a,0.26,"6,439",0.02,1,129,0*,127,NS
+Beluga whale,Bristol Bay,"1,555",n/a,3.09,n/a,0.2,"1,316",0.02,1,26,1*,19,NS
+Beluga whale,Cook Inlet,834,0.19,2.89,0.14,0.19,712,0.02,1,14,0*,72,S
+Bowhead whale,Western Arctic,"8,200",0.069,,,0.069,"7,738",0.02,0.5,77,0,49,S
+Cuvier’s beaked whale,Alaska,n/a,,,,,n/a,0.02,0.5,n/a,0,0,NS
+Dall’s porpoise,Alaska,"83,400",0.097,,,0.097,"76,874",0.02,1,"1,537",42,0,NS
+Fin whale,Northeast Pacific,n/a,,,,,n/a,0.02,0.1,n/a,0,0,S
+Gray whale,Eastern No Pac.,"22,571",0.0524,,,0.0524,"21,597",0.02,1,432,4,43,NS
+Harbor porpoise,Southeast Alaska,"10,301",see txt,see txt,see txt,see txt,"8,156",0.02,0.5,82,4*,0,NS
+Harbor porpoise,Gulf of Alaska,"8,497",0.134,3.1,0.171,0.218,"7,085",0.02,0.5,71,25,0,NS
+Harbor porpoise,Bering Sea,"10,946",0.243,3.1,0.171,0.3,"8,549",0.02,0.5,86,2,0,NS
+Harbor seal,Southeast Alaska,"37,450",0.026,1.74,0.068,0.073,"35,226",0.06,1,"2,114",36,"1,749",NS
+Harbor seal,Gulf of Alaska,"29,175",0.023,1.5,0.047,0.052,"28,917",0.06,0.5,868,36,791,NS
+Harbor seal,Bering Sea,"13,312",0.062,1.5,0.047,see txt,"12,648",0.06,0.5,379,31,161,NS
+Humpback whale,Western No Pac.,394,0.084,,,,367,0.02,0.1,0.7,0,0,S
+Humpback whale,Central No Pacific,"4,005",0.095,,,,"3,698",0.02,0.1,7.4,1.2,0,S
+Killer whale,Eastern No Pacific Northern resident,717,n/a,,,see txt,717,0.02,0.5,7.2,0.8,0,NS
+Killer whale,Eastern No Pacific Transient,198,n/a,,,see txt,198,0.02,0.5,2,0.8,0,NS
+Minke whale,Alaska,n/a,,,,,n/a,0.02,0.5,n/a,0,0,NS
+Northern right whale,North Pacific,n/a,,,,,n/a,0.02,0.1,n/a,0,0,S
+Northern fur seal,Eastern No Pacific,"1,002,516",0.065,4.475,n/a,0.2,"848,539",0.043,0.5,"18,244",17,"1,708",S
+Pac white-sided dolphin,Central No Pacific,"931,000",0.9,,,,"486,719",0.02,0.5,"4,867",4,0,NS
+Ribbon seal,Alaska,n/a,,,,,n/a,0.06,0.5,n/a,1,n/a,NS
+Ringed seal,Alaska,n/a,,,,,n/a,0.06,0.5,n/a,1,n/a,NS
+Sperm whale,North Pacific,n/a,,,,,n/a,0.02,0.1,n/a,0,0,S
+Spotted seal,Alaska,n/a,,,,,n/a,0.06,0.5,n/a,2*,see txt,NS
+Stejneger’s beaked whale,Alaska,n/a,,,,,n/a,0.02,0.5,n/a,0,0,NS
+Steller sea lion,Eastern U. S.,"30,403",,,,,"30,403",0.06,0.75,"1,368",15,2,S
+Steller sea lion,Western U. S.,"39,500",0.0184,see txt,n/a,0.0184,"38,893",0.06,0.15,350,32,412,S
+"C.F. = correction factor; CV C.F. = CV of correction factor; Comb. CV = combined CV; Status: S=Strategic, NS=Not Strategic, n/a = not available.",,,,,,,,,,,,,
+"* = No reported take by NMFS observers; however, observer coverage was minimal or nonexistent. see txt = see text for details.",,,,,,,,,,,,,

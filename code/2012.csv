@@ -1,0 +1,64 @@
+Species,Stock,N (est),CV,N(min),Survey interval/ year of last survey,Rmax,F(r),PBR,Fishery mort.,Subsist. mort.,Total mort.,Status
+Baird’s beaked whale,Alaska,N/A,,N/A,,0.04,0.50,N/A,0,0,0,NS
+Bearded seal,Alaska,N/A,,N/A,,0.12,0.50,N/A,2.7,"6,788","6,791",NS
+Beluga whale,Beaufort Sea,"39,258",0.23,"32,453",19/1992,0.04,0.50,UNDET,0,126,126,NS
+Beluga whale,E. Chukchi Sea,"3,710",N/A,"3,710",12/1998,0.04,1.00,UNDET,0,94.2,94.2,NS
+Beluga whale,E. Bering Sea,"28,406",0.24,"20,231",10/2000,0.04,1.00,UNDET,0,192.6,192.6,NS
+Beluga whale,Bristol Bay,"2,877",0.2,"2,467",6/2005,0.04,1.00,49,0.85,20.0,20.8,NS
+Beluga whale,Cook Inlet,315,0.13,283,1/2011,0.04,0.1,UNDET,0,0,0,S
+Bowhead whale,W. Arctic,"12,631",0.24,"10,314",10/2004,0.04,0.50,103,0.2,38,38.2,S
+Cuvier’s beaked whale,Alaska,N/A,,N/A,,0.04,0.50,N/A,0,0,0,NS
+Dall’s porpoise,Alaska,"83,400",0.097,N/A,18/1993,0.04,1.00,UNDET,28.9,0,28.9,NS
+Fin whale,NE Pacific,"5,700",N/A,"5,700",8/2003,0.04,0.10,11.4,0,0,0.6,S
+Harbor porpoise,SE Alaska,"11,146",0.242,"9,116",15/1997,0.04,0.50,UNDET,22.81,0,22.8,S
+Harbor porpoise,Gulf of Alaska,"31,046",0.214,"25,987",14/1998,0.04,0.50,UNDET,72.0,0,72.0,S
+Harbor porpoise,Bering Sea,"48,215",0.223,"40,039",12/1999,0.04,0.50,UNDET,0.5,0,0.9,S
+Harbor seal,Aleutian Islands,"3,579",,"3,313",7/2004,0.12,0.50,99,1.0,90,93.1,NS
+Harbor seal,Pribilof Islands,232,,232,1/2010,0.12,0.50,7,1.0,0,3.1,NS
+Species,Stock,N (est),CV,N(min),Survey interval/ year of last survey,Rmax,F(r),PBR,Fishery mort.,Subsist. mort.,Total mort.,Status
+Harbor seal,Bristol Bay,"18,577",,"17,690",6/2005,0.12,1.0,"1,061",1.0,141,144.1,NS
+Harbor seal,North Kodiak,"4,509",,"4,272",5/2006,0.12,1.0,256,1.0,131,134.1,NS
+Harbor seal,South Kodiak,"11,117",,"10,645",5/2006,0.12,1.0,639,1.0,78,81.1,NS
+Harbor seal,Prince William Sound,"31,503",,"27,157",5/2006,0.12,0.5,815,25.0,439,466.1,NS
+Harbor seal,Cook Inlet/ Shelikof,"22,900",,"21,896",5/2006,0.12,1.0,"1,314",1.0,233,236.1,NS
+Harbor seal,Glacier Bay/ Icy Strait,"5,042",,"4,735",4/2007,0.12,0.5,142,1.0,52,55.1,NS
+Harbor seal,Lynn Canal/ Stephens,"8,870",,"8,481",4/2007,0.12,0.5,254,1.0,30,33.1,NS
+Harbor seal,Sitka/ Chatham,"8,586",,"8,222",4/2007,0.12,0.5,247,1.0,222,225.1,NS
+Harbor seal,Dixon/ Cape Decision,"14,388",,"13,682",5/2003,0.12,1.0,821,1.0,157,160.1,NS
+Harbor seal,Clarence Strait,"23,289",,"22,471",5/2003,0.12,1.0,"1,348",1.0,164,167.1,NS
+Humpback whale,W. N. Pacific,938,0.30,732,5/2006,0.07,0.10,2.6/2.0,0.6,0,0.6,S
+Humpback whale,CNP - entire stock,"7,469",0.30,"5,833",5/2004-2006,0.07,0.3,61.2,2.6,0,4.04,S
+,"CNP – SEAK/NBC
+feeding area","2,883",0.3,"2,251",,0.07,0.3,23.6,2.0,0,2.84,N/A
+,"CNP – GOA
+feeding area","2,845",0.3,"2,222",,0.07,0.10,7.8,1.65,,1.65,N/A
+,"CNP – BS/AI
+feeding area","2,889",0.3,"2,256",,0.07,0.10,7.9,1.65,,1.65,N/A
+Killer whale,Alaska Resident,"2,0843",N/A,"2,084",8+/2009,0.04,0.50,20.8,1.5,0,1.5,NS
+Killer whale,Northern Resident (British Columbia),2163,N/A,216,10/2000,0.03,0.5,1.62,0,0,0,NS
+Killer whale,AT1 transient,73,N/A,7,1/2011,0.04,0.10,0,0,0,0,S
+Killer whale,"GOA, AI, BS
+Transient",5523,N/A,552,8+/2003,0.04,0.5,5.5,1.5,0,1.5,NS
+Species,Stock,N (est),CV,N(min),Survey interval/ year of last survey,Rmax,F(r),PBR,Fishery mort.,Subsist. mort.,Total mort.,Status
+Killer whale,West Coast Transient,3543,N/A,354,1999,0.04,0.5,3.5,0,0,0,NS
+Minke whale,Alaska,N/A,,N/A,,0.04,0.50,N/A,0,0,0.2,NS
+Narwhal,Unidentified stock,N/A,,N/A,,0.04,0.50,N/A,0,0,0,NS
+Northern fur seal,E. North Pacific,"611,617",N/A,"517,679",1/2010,0.086,0.50,"11,130",3.2,496,500,S
+Pacific white-sided dolphin,Cent. N. Pacific,"26,880",N/A,N/A,12+/1990,0.04,0.50,UNDET,0,0,0,NS
+Ribbon seal,Alaska,"49,000
+(provisional)",,N/A,2/2008,0.12,0.50,N/A,2.25,193,195,NS
+Right whale,E. N. Pacific,31,0.23,25.7,2010,0.04,0.10,0,0,0,0,S
+Ringed seal,Alaska,N/A,,N/A,,0.12,0.50,N/A,1.75,"9,567","9,570",NS
+Sperm whale,N. Pacific,N/A,,N/A,,0.04,0.10,N/A,2.1,0,2.1,S
+Spotted seal,Alaska,N/A,,N/A,,0.12,0.50,N/A,1.0,"5,265","5,266",NS
+Stejneger’s beaked whale,Alaska,N/A,,N/A,,0.04,0.50,N/A,0,0,0,NS
+Steller sea lion,E. U. S.,"58,334-
+72,223",,"52,847",2/2009,0.12,0.75,"2,378",45.84,11.9,59.1,S
+Steller sea lion,W. U. S.,"45,916",,"45,916",1/2011,0.12,0.10,275,33.8,198,232,S
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
